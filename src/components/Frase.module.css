@@ -1,0 +1,11 @@
+.fraseContainer{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    border: 1px solid rgb(14, 92, 92);
+}
+
+.fraseContent {
+    color:white;
+    background-color: #333;
+    margin: 10px;
+}
